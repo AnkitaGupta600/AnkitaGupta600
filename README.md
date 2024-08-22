@@ -28,7 +28,7 @@ I'm currently pursuing my *Bachelor of Computer Applications (BCA)* from *Makhan
 
 ### 📫 How to Reach Me
 
-- **Email:** [ankita@gmail.com]
+- **Email:** [ankita2023gupta@gmail.com]
 - **LinkedIn:** [https://www.linkedin.com/in/ankita-gupta-a70a7a303/]
 - **GitHub:** [https://github.com/AnkitaGupta600]
 
