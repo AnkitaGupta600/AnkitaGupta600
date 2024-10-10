@@ -1,7 +1,8 @@
 # 👋 Hello, I'm Ankita Gupta
 ## 📚 BCA Student | 💻 Aspiring Developer | 🌱 Learning to Code
 
-![Developer Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMfalVEFQUhLuVTdMW1xy5b4570zM4K_ZsjA&s)
+<img src="https://img.freepik.com/premium-photo/photo-joyful-nice-woman-using-laptop-beautiful-businesswoman-typing-laptop-generative-ai_911620-17567.jpg" width="250"/>
+
 ## About Me
 
 I'm currently pursuing my *Bachelor of Computer Applications (BCA)* from *Makhanlal Chaturvedi University*. I have a keen interest in technology and am dedicated to expanding my knowledge in various programming languages and development tools.
