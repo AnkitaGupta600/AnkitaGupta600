@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Ankita Gupta
 ## 📚 BCA Student | 💻 Aspiring Developer | 🌱 Learning to Code
 
-<img src="https://img.freepik.com/premium-photo/photo-joyful-nice-woman-using-laptop-beautiful-businesswoman-typing-laptop-generative-ai_911620-17567.jpg" width="250"/>
+<img src="file-3iWsWC5ED3BqzugPAkGywP" width="250"/>
 
 ## About Me
 
